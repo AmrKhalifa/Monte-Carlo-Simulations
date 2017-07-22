@@ -81,7 +81,7 @@ def monte_carlo_simulation (arrivalRate, serviceRate,plots,x,y):
 
 monte_carlo_simulation(5,4,3,2,1)
 monte_carlo_simulation(20,2,3,2,2)
-monte_carlo_simulation(1,20,3,2,3)
+monte_carlo_simulation(1,50,3,2,3)
 monte_carlo_simulation(10,20,3,2,4)
 monte_carlo_simulation(20,10,3,2,5)
 plt.show()
